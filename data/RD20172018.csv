@@ -1,0 +1,83 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GmSc,BPM
+1,1,2017-10-18,25-114,UTA,,DEN,W (+10),1,35:01,.836,.778,11.1,25.9,18.5,4.4,0.0,2.7,35.8,22.3,107,104,12.5,-2.3
+2,2,2017-10-20,25-116,UTA,@,MIN,L (-3),1,32:58,.500,.500,14.2,32.0,23.1,0.0,3.1,4.9,23.1,18.3,87,97,10.1,-2.3
+3,3,2017-10-21,25-117,UTA,,OKC,W (+9),1,32:30,.727,.727,12.0,35.2,24.3,11.3,1.6,0.0,8.3,17.5,140,92,16.4,7.4
+4,4,2017-10-24,25-120,UTA,@,LAC,L (-18),1,31:17,.949,1.000,7.5,17.4,12.6,11.7,0.0,8.5,13.7,11.0,166,109,15.1,8.8
+5,5,2017-10-25,25-121,UTA,@,PHO,L (-9),1,36:13,.639,.556,2.9,32.5,18.7,5.2,0.0,8.6,24.2,19.7,98,88,14.9,2.9
+6,6,2017-10-28,25-124,UTA,,LAL,W (+15),1,35:27,.510,.600,10.4,13.8,12.3,0.0,0.0,6.9,14.5,8.8,102,92,6.4,-1.3
+7,7,2017-10-30,25-126,UTA,,DAL,W (+15),1,33:14,.754,.667,11.1,34.2,22.5,26.9,3.1,16.7,21.0,20.3,141,82,24.6,16.0
+8,8,2017-11-01,25-128,UTA,,POR,W (+9),1,38:20,.617,.556,5.3,19.8,12.8,5.1,0.0,7.0,13.4,17.3,116,95,14.3,2.7
+9,9,2017-11-03,25-130,UTA,,TOR,L (-9),1,34:35,.638,.600,12.6,14.9,13.5,0.0,0.0,6.8,7.8,17.1,132,121,13.3,2.0
+10,10,2017-11-05,25-132,UTA,@,HOU,L (-27),1,25:15,.568,.545,8.4,19.0,12.7,7.1,0.0,0.0,0.0,19.5,123,138,9.9,-2.7
+11,11,2017-11-07,25-134,UTA,,PHI,L (-7),1,35:43,.602,.500,13.0,31.0,20.0,5.5,2.5,7.5,13.1,16.2,121,92,18.5,5.8
+12,12,2017-11-10,25-137,UTA,,MIA,L (-10),1,35:16,.652,.571,3.0,34.8,18.6,0.0,0.0,5.2,9.8,13.8,120,87,11.5,3.3
+13,,2017-11-11,25-138,UTA,,BRK,W (+8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+14,,2017-11-13,25-140,UTA,,MIN,L (-11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+15,,2017-11-15,25-142,UTA,@,NYK,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+16,,2017-11-17,25-144,UTA,@,BRK,L (-11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+17,,2017-11-18,25-145,UTA,@,ORL,W (+40),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+18,,2017-11-20,25-147,UTA,@,PHI,L (-21),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+19,,2017-11-22,25-149,UTA,,CHI,W (+30),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+20,,2017-11-25,25-152,UTA,,MIL,W (+13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+21,,2017-11-28,25-155,UTA,,DEN,W (+29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+22,,2017-11-30,25-157,UTA,@,LAC,W (+19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+23,,2017-12-01,25-158,UTA,,NOP,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+24,13,2017-12-04,25-161,UTA,,WAS,W (+47),1,21:09,.500,.500,31.3,25.2,27.3,17.7,2.6,7.6,33.3,13.6,120,68,7.9,6.2
+25,14,2017-12-05,25-162,UTA,@,OKC,L (-6),1,26:53,.539,.500,4.2,23.5,13.2,0.0,1.9,2.8,17.7,9.7,98,105,3.7,-6.3
+26,15,2017-12-07,25-164,UTA,,HOU,L (-11),1,27:41,.510,.400,8.3,33.7,20.0,5.7,1.8,8.9,46.0,18.5,69,109,4.5,-5.7
+27,16,2017-12-09,25-166,UTA,@,MIL,L (-17),1,28:53,.706,.750,11.9,29.3,19.7,7.2,0.0,2.6,12.4,24.8,129,123,17.3,6.2
+28,17,2017-12-13,25-170,UTA,@,CHI,L (-3),1,26:18,.429,.429,13.0,28.1,21.4,5.0,0.0,12.0,0.0,11.6,108,90,11.0,5.4
+29,18,2017-12-15,25-172,UTA,@,BOS,W (+12),1,1:49,.000,.000,0.0,55.0,30.7,0.0,0.0,0.0,0.0,24.9,0,99,-0.4,-21.6
+30,,2017-12-16,25-173,UTA,@,CLE,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+31,,2017-12-18,25-175,UTA,@,HOU,L (-21),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+32,,2017-12-20,25-177,UTA,@,OKC,L (-28),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+33,,2017-12-21,25-178,UTA,,SAS,W (+11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+34,,2017-12-23,25-180,UTA,,OKC,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+35,,2017-12-26,25-183,UTA,@,DEN,L (-24),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+36,,2017-12-27,25-184,UTA,@,GSW,L (-25),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+37,,2017-12-30,25-187,UTA,,CLE,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+38,,2018-01-03,25-191,UTA,,NOP,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+39,,2018-01-05,25-193,UTA,@,DEN,L (-8),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+40,,2018-01-07,25-195,UTA,@,MIA,L (-1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+41,,2018-01-10,25-198,UTA,@,WAS,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+42,,2018-01-12,25-200,UTA,@,CHO,L (-11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+43,,2018-01-15,25-203,UTA,,IND,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+44,,2018-01-17,25-205,UTA,@,SAC,W (+15),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+45,19,2018-01-19,25-207,UTA,,NYK,L (-2),1,29:46,.693,.700,18.3,33.0,25.7,5.3,0.0,7.0,15.3,26.1,129,108,20.4,6.4
+46,20,2018-01-20,25-208,UTA,,LAC,W (+12),1,28:06,.662,.667,4.5,19.7,13.3,0.0,0.0,11.1,0.0,17.8,141,105,13.5,2.3
+47,21,2018-01-22,25-210,UTA,@,ATL,L (-14),1,27:57,.410,.333,8.4,32.7,20.7,5.8,5.4,9.0,29.1,17.0,71,91,7.6,-1.1
+48,22,2018-01-24,25-212,UTA,@,DET,W (+3),1,37:58,.480,.462,8.2,14.0,11.1,4.7,0.0,8.5,0.0,18.7,106,93,13.0,1.0
+49,23,2018-01-26,25-214,UTA,@,TOR,W (+4),1,31:18,.592,.538,16.7,28.9,23.2,18.2,1.6,4.5,16.5,25.5,114,89,18.9,10.1
+50,24,2018-01-30,25-218,UTA,,GSW,W (+30),1,27:47,.571,.571,15.7,11.3,13.1,3.7,5.2,2.9,0.0,12.6,139,95,12.3,4.4
+51,25,2018-02-02,25-221,UTA,@,PHO,W (+32),1,32:20,.592,.625,12.7,18.6,16.1,3.4,1.5,13.7,37.2,18.4,85,88,8.5,-4.6
+52,26,2018-02-03,25-222,UTA,@,SAS,W (+9),1,31:58,.546,.429,10.0,27.9,20.6,13.1,0.0,6.9,0.0,14.9,136,110,12.9,2.0
+53,27,2018-02-05,25-224,UTA,@,NOP,W (+24),1,32:50,.931,.875,8.9,27.8,19.5,3.5,1.4,2.1,8.9,15.0,177,104,19.8,6.5
+54,28,2018-02-07,25-226,UTA,@,MEM,W (+4),1,37:44,.469,.200,10.6,26.6,19.3,9.2,0.0,4.4,31.9,15.5,85,94,5.7,-4.4
+55,29,2018-02-09,25-228,UTA,,CHO,W (+12),1,32:49,.868,.875,12.5,24.9,19.6,14.3,0.0,4.8,0.0,16.3,185,99,24.0,14.5
+56,30,2018-02-11,25-230,UTA,@,POR,W (+19),1,34:02,.497,.333,6.0,26.4,16.3,11.5,0.0,5.0,14.2,17.9,111,99,10.9,-0.8
+57,31,2018-02-12,25-231,UTA,,SAS,W (+2),1,31:10,.446,.444,13.7,29.3,21.2,10.7,1.6,5.1,15.2,19.1,97,98,10.3,1.1
+58,32,2018-02-14,25-233,UTA,,PHO,W (+10),1,37:04,.717,.625,5.2,43.2,23.2,4.0,0.0,0.0,0.0,11.5,159,103,15.4,1.6
+59,33,2018-02-23,25-242,UTA,,POR,L (-19),1,34:18,.697,.667,6.5,23.9,15.0,17.1,3.0,8.9,15.7,17.5,126,94,18.3,11.7
+60,34,2018-02-24,25-243,UTA,,DAL,W (+7),1,34:39,.752,.833,2.9,31.2,15.7,5.1,0.0,0.0,18.8,13.7,116,95,10.5,0.1
+61,35,2018-02-26,25-245,UTA,,HOU,L (-11),1,36:08,.833,.875,7.0,13.0,10.1,6.1,1.4,5.8,8.9,14.5,150,101,16.5,8.5
+62,36,2018-03-02,25-249,UTA,,MIN,W (+8),1,35:55,.858,.778,11.1,48.3,29.7,4.4,1.4,9.4,6.2,19.4,173,102,30.0,15.2
+63,37,2018-03-03,25-250,UTA,@,SAC,W (+7),1,36:19,.612,.600,13.8,17.8,15.9,10.1,4.1,6.7,7.1,17.3,130,86,20.5,8.6
+64,38,2018-03-05,25-252,UTA,,ORL,W (+14),1,37:05,.831,.900,10.8,37.8,26.2,0.0,1.4,5.1,13.7,19.8,139,80,21.9,8.7
+65,39,2018-03-07,25-254,UTA,@,IND,W (+20),1,38:46,.730,.714,9.8,27.8,19.9,0.0,1.4,1.9,11.3,22.2,128,88,20.7,3.5
+66,40,2018-03-09,25-256,UTA,@,MEM,W (+17),1,34:08,.400,.400,15.2,16.9,16.2,4.7,3.1,4.6,37.5,11.2,78,81,5.8,-5.4
+67,41,2018-03-11,25-258,UTA,@,NOP,W (+17),1,39:47,.560,.385,10.7,30.2,20.8,10.7,0.0,3.4,5.6,17.8,137,96,20.0,6.2
+68,42,2018-03-13,25-260,UTA,,DET,W (+31),1,30:34,.689,.750,22.4,22.4,22.4,5.6,0.0,5.7,15.8,27.5,121,82,18.7,4.1
+69,43,2018-03-15,25-262,UTA,,PHO,W (+28),1,34:02,.770,.727,15.1,20.6,17.6,9.2,1.4,4.2,0.0,16.3,169,85,24.6,9.3
+70,44,2018-03-17,25-264,UTA,,SAC,W (+6),1,39:16,.887,.875,9.7,28.4,19.6,0.0,0.0,7.5,7.5,15.5,169,95,24.5,8.5
+71,45,2018-03-20,25-267,UTA,,ATL,L (-5),1,35:25,.689,.700,15.3,27.1,21.1,0.0,0.0,4.4,26.9,17.4,106,96,13.0,-1.3
+72,46,2018-03-22,25-269,UTA,@,DAL,W (+7),1,35:44,.887,.750,7.7,17.2,12.7,6.4,2.8,12.7,0.0,7.9,197,108,18.0,6.3
+73,47,2018-03-23,25-270,UTA,@,SAS,L (-4),1,40:14,.752,.667,6.1,19.8,12.7,3.5,2.5,0.0,10.4,11.0,145,116,12.9,0.5
+74,48,2018-03-25,25-272,UTA,@,GSW,W (+19),1,31:08,.666,.636,20.3,30.8,26.3,14.8,0.0,8.1,7.3,19.5,144,90,21.3,11.0
+75,49,2018-03-28,25-275,UTA,,BOS,L (-3),1,39:53,.654,.600,8.4,21.9,15.2,7.9,1.3,4.2,34.4,13.1,97,103,10.8,-1.4
+76,50,2018-03-30,25-277,UTA,,MEM,W (+10),1,28:52,.678,.750,10.1,35.0,23.4,0.0,3.6,0.0,37.6,17.6,88,100,6.8,-5.7
+77,51,2018-04-01,25-279,UTA,@,MIN,W (+24),1,32:16,.630,.667,4.8,38.8,25.1,3.5,0.0,9.0,38.7,11.2,87,92,8.3,-0.3
+78,52,2018-04-03,25-281,UTA,,LAL,W (+7),1,36:24,.492,.500,11.5,39.6,24.5,18.1,2.7,8.6,29.1,19.7,92,102,13.6,0.0
+79,53,2018-04-05,25-283,UTA,,LAC,W (+22),1,27:43,.868,1.000,18.2,26.6,22.5,10.3,1.9,8.4,18.8,17.7,147,95,18.7,12.0
+80,54,2018-04-08,25-286,UTA,@,LAL,W (+15),1,25:48,.340,.400,4.8,18.6,12.5,9.7,3.7,2.7,33.8,14.9,60,90,2.2,-6.8
+81,55,2018-04-10,25-288,UTA,,GSW,W (+40),1,28:21,.742,.714,4.0,10.0,7.3,8.6,0.0,5.1,10.2,14.9,144,86,12.3,6.0
+82,56,2018-04-11,25-289,UTA,@,POR,L (-9),1,31:58,.509,.455,17.0,22.8,19.7,5.9,0.0,2.3,13.6,19.5,107,106,11.4,-0.8
