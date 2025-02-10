@@ -1,73 +1,49 @@
-# NBA player statistics analysis
+# Rudy Gobert Defensive Statistics Analysis
 
-### **Projet : Prédiction des performances des joueurs de basket en fonction de leurs statistiques**
+### **Project Overview**
 
-**Objectif :**  
-Créer un modèle de machine learning capable de prédire les performances futures d’un joueur de basket (par exemple, le nombre de points, rebonds, passes décisives par match) en fonction de ses statistiques passées et d'autres facteurs (minutes jouées, position, adversaire, etc.). Accompagne cela de visualisations impactantes pour analyser les résultats.
+This project focuses on analyzing and visualizing Rudy Gobert's defensive statistics to gain insights into his impact on the game. The analysis covers key defensive metrics such as blocks, rebounds, and defensive rating.
 
 ---
 
 ### **Étapes du projet :**
 
-#### 1. **Collecte de données :**
-- Récupère des données de basket-ball via des APIs ou des sources en ligne comme :
-  - [Basketball Reference](https://www.basketball-reference.com/)
-  - [Kaggle Datasets](https://www.kaggle.com/)
-  - [NBA API](https://github.com/swar/nba_api)
-- Les données doivent inclure :
-  - Les statistiques des joueurs (points, rebonds, passes décisives, etc.)
-  - Les données contextuelles (date du match, adversaire, minutes jouées, position, etc.)
-  - Les performances d'équipe (victoire/défaite, score total, etc.)
+#### 1. **📊 Data Collection :**
+The data was sourced from [Basketball Reference](https://www.basketball-reference.com/), a well-known platform providing detailed NBA statistics. The dataset includes:
+- Defensive rebounds
+- Steals
+- Blocks per game
+- Defensive rating
+- Season
+- many other data that are less relevant (date, points, assists...)
+
+#### 2. **⚒️ Data Cleaning & Preprocessing**
+The raw data was extracted and cleaned using Python. The preprocessing steps included:
+
+- Data Cleaning – Removed missing values, standardized column names, and handled outliers.
+
+- Feature Engineering – Calculated additional metrics and joining datasets for better insights.
+
+#### 3. **📈 Data Visualization with Tableau**
+Once cleaned, the dataset was imported into Tableau for visualization. The final dashboard highlights trends in Gobert’s defensive stats over seasons
+
+![Tableau Dashboard](dashboards/rudygobert_dashboard.png)
 
 ---
 
-#### 2. **Exploration des données :**
-- Nettoie les données (traitement des valeurs manquantes, gestion des doublons, etc.).
-- Fais une analyse exploratoire des données (EDA) pour comprendre les relations entre les variables.
-- Crée des visualisations avec **Matplotlib**, **Seaborn**, ou **Plotly** :
-  - Histogrammes pour les statistiques des joueurs.
-  - Heatmaps pour les corrélations.
-  - Graphiques temporels pour suivre les performances sur la saison.
+### **🚀 How to Use This Project**
+
+1. Clone this repository:
+
+   ``git clone https://github.com/dounya-bourhani/NBA_stats_analysis.git``
+
+2. Run the data processing script: 
+  
+    ``python data_cleaning.py``
+
+3. Open the Tableau dashboard to explore the visualizations [here](https://public.tableau.com/app/profile/dounya.bourhani/viz/rudy_gobert_dpoy/RG_dpoy).
 
 ---
 
-#### 3. **Feature Engineering :**
-- Crée des variables supplémentaires, par exemple :
-  - Forme récente d’un joueur (moyenne des 5 derniers matchs).
-  - Impact de l’adversaire (défense moyenne de l’équipe adverse).
-  - Position spécifique du joueur (poste 1 à 5).
-
----
-
-#### 4. **Construction du modèle :**
-- Teste différents modèles de machine learning :
-  - **Régression linéaire** : Pour prédire les points par match.
-  - **Arbres de décision** ou **Random Forest** : Pour capturer des relations complexes.
-  - **Réseaux neuronaux (TensorFlow/Keras)** : Pour des prédictions plus sophistiquées si le dataset est volumineux.
-- Évalue les performances des modèles (R², MAE, RMSE).
-
----
-
-#### 5. **Visualisation des résultats :**
-- Présente les résultats du modèle avec des graphiques :
-  - Graphiques de comparaison entre les valeurs prédites et les valeurs réelles.
-  - Importance des features dans le modèle (via SHAP ou des barplots).
-  - Tableau interactif (via **Dash** ou **Streamlit**) permettant de visualiser les performances des joueurs.
-
----
-
-#### 6. **Approfondissements :**
-- Ajoute des prédictions pour les équipes (victoires/défaites, scores totaux).
-- Crée des scénarios "what-if" (par exemple : impact d'une blessure ou d'un changement de minutes jouées).
-
----
-
-### **Compétences mobilisées :**
-- **Machine learning** : Régression, arbres de décision, réseaux neuronaux.
-- **Data visualisation** : Matplotlib, Seaborn, Plotly, Dash/Streamlit.
-- **Data engineering** : Collecte de données, nettoyage, feature engineering.
-- **Outils** : Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras.
-
----
-
-Tu peux publier ton projet sur GitHub avec un notebook clair pour démontrer tes compétences. Si tu veux des détails sur un des points (comme les APIs ou le code), dis-le-moi !
+### **📩 Contact**
+If you have any questions or suggestions, feel free to reach out! 😊
