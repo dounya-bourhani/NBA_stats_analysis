@@ -4,6 +4,8 @@
 
 This project focuses on analyzing and visualizing Rudy Gobert's defensive statistics to gain insights into his impact on the game. The analysis covers key defensive metrics such as blocks, rebounds, and defensive rating.
 
+[![Tableau Dashboard](dashboards/rudygobert_dashboard.png)](https://public.tableau.com/app/profile/dounya.bourhani/viz/rudy_gobert_dpoy/RG_dpoy)
+
 ---
 
 ### **Étapes du projet :**
@@ -27,7 +29,6 @@ The raw data was extracted and cleaned using Python. The preprocessing steps inc
 #### 3. **📈 Data Visualization with Tableau**
 Once cleaned, the dataset was imported into Tableau for visualization. The final dashboard highlights trends in Gobert’s defensive stats over seasons
 
-![Tableau Dashboard](dashboards/rudygobert_dashboard.png)
 
 ---
 
